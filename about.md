@@ -10,7 +10,7 @@ All about me :)
 
 
 
-![Alt text](/images/about/FabioChiodiniInformal500.jpg "FabioChiodiniInformal500")
+#![Alt text](/images/about/FabioChiodiniInformal500.jpg "FabioChiodiniInformal500")
 
 
 #/images/about/KInformalSmall.png
