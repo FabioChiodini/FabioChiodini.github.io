@@ -13,7 +13,7 @@ All about me :)
 
 
 
-#/images/about/KInformalSmall.png
+
 
 ### More Information
 
