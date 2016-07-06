@@ -12,4 +12,4 @@ I do stuff and I like it
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@FabioChiodini](mailto:email@domain.com)
