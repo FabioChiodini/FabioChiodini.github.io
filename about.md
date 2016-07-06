@@ -6,11 +6,11 @@ permalink: /about/
 
 All about me :)
 
-![Alt text](/images/about/KInformalSmall.png "KInformalSmall")
+![Alt text](/images/about/KInformalSmall-1.png "KInformalSmall-1")
 
 
 
-#![Alt text](/images/about/FabioChiodiniInformal500.jpg "FabioChiodiniInformal500")
+
 
 
 #/images/about/KInformalSmall.png
