@@ -13,7 +13,7 @@ All about me :)
 
 Her's my professional life in one pic:
 
-[Imgur](http://i.imgur.com/yQH0j1g.png)
+![](http://i.imgur.com/yQH0j1g.png)
 
 
 
