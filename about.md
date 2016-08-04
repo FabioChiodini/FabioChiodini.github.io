@@ -11,7 +11,7 @@ All about me :)
 
 
 
-Her's my professional life in one pic:
+Here's my recent professional life in one pic:
 
 ![](http://i.imgur.com/yQH0j1g.png)
 
